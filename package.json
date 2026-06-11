@@ -61,5 +61,11 @@
       "beforeEach",
       "afterEach"
     ]
+  },
+  "overrides": {
+    "debug": ">=2.6.9"
+  },
+  "resolutions": {
+    "debug": ">=2.6.9"
   }
 }
